@@ -46,8 +46,17 @@
 - YouTube;
 - Zope;
 
+## Instalação:
+- Download em: https://www.python.org/
+- Na hora de instalar é ideal adicionar o Python ao path, pela ta no final da tela de instalação
+- Além disso também desabilite a limitação do path;
+- Entre no cmd e digite `python`
+- E agora já pode-se fazer o seu primeiro `Hello World`;
+  - ` print('Olá Mundo!')`
+- Na instalação vem o IDLE que pode ser usado como um terminal próprio para o Python 
 
 ## Zen of Python:Tim Peters
+- no terminal python digite `import this`
 - Bonito é melhor que feio.
 - Explícito é melhor que implícito.
 - Simples é melhor que complexo.
